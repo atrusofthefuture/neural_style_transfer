@@ -1,6 +1,6 @@
 # tf-nst
 
-This is a working repo for experiments in neural style transfer, a relatively new technique which uses extracted features from machine vision algorithm "vgg19" to map features from one image to another.
+This is a working repo for experiments in neural style transfer, a relatively new technique which uses extracted features from machine vision neural network "vgg19" to map features from a source image to a different content image. In the examples below the source image is one of several selections from the works of Paul Cézanne and the content image is a low-resolution selfie. Note that the portraits are public domain images and available on the artist's [Wikipedia page](https://en.wikipedia.org/wiki/Paul_Cezanne).
 
 For more info check out [Neural Style Transfer with Eager Execution](https://colab.research.google.com/github/tensorflow/models/blob/master/research/nst_blogpost/4_Neural_Style_Transfer_with_Eager_Execution.ipynb).
 
