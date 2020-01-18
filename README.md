@@ -2,9 +2,11 @@
 
 This is a working repo for experiments in neural style transfer, a relatively new technique which uses extracted features from machine vision algorithm "vgg19" to map features from one image to another.
 
+For more info check out [Neural Style Transfer with Eager Execution](https://colab.research.google.com/github/tensorflow/models/blob/master/research/nst_blogpost/4_Neural_Style_Transfer_with_Eager_Execution.ipynb).
+
 **First attempt:**
 
-![Portrait de Victor Chocquet, par Paul Cézanne](https://github.com/atrusofthefuture/tf-nst/blob/master/best-chocquet.png)![Original](https://github.com/atrusofthefuture/tf-nst/blob/master/Portrait_de_Victor_Chocquet,_par_Paul_Cézanne,_Yorck.jpg)
+![Portrait de Victor Chocquet, par Paul Cézanne](https://github.com/atrusofthefuture/tf-nst/blob/master/best-chocquet.png)![Original](https://github.com/atrusofthefuture/tf-nst/blob/master/Portrait_de_Victor_Chocquet,_par_Paul_Cézanne,_Yorck-scaled.jpg)
 
 **Second attempt:**
 
